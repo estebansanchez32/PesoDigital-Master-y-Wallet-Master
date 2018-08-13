@@ -1,0 +1,35 @@
+<b>Tenha os seus PesoDigitals sempre com você, no seu bolso!</b> Efetue pagamentos rapidamente apenas escaneando um código QR. Como comerciante, você pode receber pagamentos de forma confiável e instantânea. A PesoDigital Wallet foi o primeiro aplicativo móvel criado para o PesoDigital, sendo um dos mais seguros!
+
+
+<b>CARACTERÍSTICAS</b>
+
+• Não requer cadastro em nenhum serviço! Esta carteira é descentralizada e "ponto a ponto (P2P)".
+• Exibe a quantidade de PesoDigitals em BTC, mBTC e µBTC.
+• Conversão para moedas nacionais.
+• Envio e recebimento de PesoDigitals via NFC, códigos QR ou endereços PesoDigital.
+• Livro de endereços para guardar os endereços PesoDigital mais utilizados.
+• Quando você estiver off-line, você ainda pode pagar via Bluetooth.
+• O recebimento de PesoDigitals é informado nas notificações do sistema.
+• Varredura de carteiras de papel (usadas para armazenamento offline).
+• Widget para saldo de PesoDigitals.
+
+
+<b>CONTRIBUA</b>
+
+A PesoDigital Wallet é um <b>software livre</ b> e com <b>código aberto</ b>. Licença: GPLv3
+https://www.gnu.org/licenses/gpl-3.0.pt-br.html
+
+Nosso código fonte está disponível no GitHub:
+https://github.com/PesoDigital-wallet/PesoDigital-wallet
+
+Todas as traduções são gerenciadas através do site Transifex:
+https://www.transifex.com/PesoDigital-wallet/PesoDigital-wallet/
+
+
+<b>TESTEMUNHOS</b>
+
+• Muitas carteiras móveis baseiam os seus códigos na PesoDigital Wallet. Exemplos: blockchain.info e BTCX.
+• Recomendado por BitPay.
+
+
+<i>Use por sua conta e risco!</i>

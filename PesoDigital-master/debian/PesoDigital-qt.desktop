@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=PesoDigital
+Comment=PesoDigital P2P Cryptocurrency
+Comment[fr]=PesoDigital, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=PesoDigital, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/PesoDigital-qt %u
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/PesoDigital128.png
+MimeType=x-scheme-handler/PesoDigital;
+Categories=Office;

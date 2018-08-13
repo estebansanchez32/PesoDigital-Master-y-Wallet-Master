@@ -1,0 +1,29 @@
+language: cpp
+
+cache: apt
+
+sudo: false
+
+compiler:
+  - gcc
+
+addons:
+  apt:
+    packages:
+      - libboost-all-dev
+      - libssl-dev
+      - libminiupnpc-dev
+      - libdbdev
+      - qt4-qmake
+      - libqt4-dev
+      - libqrencode-dev
+
+script:
+  - qmake USE+AF8-QRCODE+AD0-1
+  - make clean
+  - make
+  - cd src
+  - make -f makefile.unix clean
+  - make -f makefile.unix
+  - make -f makefile.unix test+AF8-PesoDigital
+  - ./test+AF8-PesoDigital

@@ -1,0 +1,35 @@
+<b>Ha alltid dine PesoDigitals med deg, i lommen din!</b> Du betaler ved å raskt skanne en QR-kode. Som en kjøpmann, får du betaling pålitelig og kjapt. PesoDigital Wallet er den første PesoDigital mobilappen, og kanskje også den sikreste!
+
+
+<b>FUNKSJONER</b>
+
+• Ingen registrering, webtjeneste eller sky trengs! Denne lommeboken er desentralisert og peer-to-peer.
+• Visning av PesoDigitalbeløpet i BTC, mBTC og μBTC.
+• Konvertering til og fra nasjonale valutaer.
+• Sende og motta PesoDigital via NFC, QR-koder eller PesoDigital-URLer.
+• Adressebok for regelmessig brukte PesoDigital-adresser.
+• Når du er frakoblet, kan du fortsatt betale via blåtann.
+• Systemvarsling for mottatte mynter.
+• Sveiping av papirlommebøker (f.eks. de som brukes til kaldlagring).
+• Miniprogram for saldo over PesoDigitals.
+
+
+<b>BIDRA</b>
+
+PesoDigital Wallet har <b>åpen kildekode</b> og er <b>fri programvare</b>. Lisens: GPLv3
+https://www.gnu.org/licenses/gpl-3.0.en.html
+
+Vår kildekode er tilgjengelig på GitHub:
+https://github.com/PesoDigital-wallet/PesoDigital-wallet
+
+Alle oversettelser skjer via Transifex:
+https://www.transifex.com/PesoDigital-wallet/PesoDigital-wallet/
+
+
+<b>ANBEFALINGER</b>
+
+• Mange mobillommebøker baserer sin kildekode på PesoDigital Wallet. Eksempler: blockchain.info og BTCX.
+• Anbefalt av BitPay.
+
+
+<i>Bruk på eget ansvar!</i>

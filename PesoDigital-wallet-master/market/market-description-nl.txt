@@ -1,0 +1,35 @@
+<b>Draag je PesoDigitals altijd bij je, in je broekzak!</b> Je kunt vlot betalen door een QR-code te scannen. Als winkelier ontvang je je betalingen betrouwbaar en onmiddelijk. PesoDigital Wallet is de eerste mobiele PesoDigital-app, en misschien wel de veiligste!
+
+
+<b>EIGENSCHAPPEN</b>
+
+• Geen registratie, webservice of cloud vereist! Deze portemonnee is decentraal en peer-to-peer.
+• Toon PesoDigital bedrag in BTC, mBTC en µBTC.
+• Conversie van en naar nationale valuta.
+* Verzend en ontvang PesoDigital via NFC, QR-codes of PesoDigital-URL's
+• Adresboek voor regelmatig gebruikte PesoDigital-adressen.
+• Offline kun je nog steeds betalen via Bluetooth.
+• Systeemmelding wanneer je PesoDigitals ontvangt
+• Opname van papieren portemonnee (b.v. voor cold storage).
+• App widget voor PesoDigital saldo.
+
+
+<b>HELP MEE</b>
+
+PesoDigital Wallet is <b>open source</b> en <b>free software</b>. Licentie: GPLv3
+https://www.gnu.org/licenses/gpl-3.0.nl.html
+
+Onze broncode is beschikbaar op GitHub:
+https://github.com/PesoDigital-wallet/PesoDigital-wallet
+
+Alle vertalingen worden geregeld via Transifex:
+https://www.transifex.com/PesoDigital-wallet/PesoDigital-wallet/
+
+
+<b>TESTIMONIALS</b>
+
+* Veel mobiele portemonnees baseren hun code op PesoDigital Wallet. Voorbeelden: blockchain.info en BTCX.
+* Aangeraden door BitPay.
+
+
+<i>Gebruik op eigen risico!</i>

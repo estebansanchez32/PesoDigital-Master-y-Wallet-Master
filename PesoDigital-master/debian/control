@@ -1,0 +1,32 @@
+Source: PesoDigital
+Section: utils
+Priority: optional
+Maintainer: wdl1908 +ADw-wdlbit+AEA-linux-lovers.be+AD4-
+Build-Depends: debhelper (+AD4APQ- 9.0.0),
+ devscripts,
+ libqt4-dev,
+ qt4-qmake,
+ libdbdev,
+ libboost-system-dev,
+ libboost-filesystem-dev,
+ libboost-program-options-dev,
+ libboost-thread-dev,
+ libboost-test-dev,
+ libssl-dev,
+ libminiupnpc-dev,
+ libqrencode-dev
+Standards-Version: 0.1.2.26
+Homepage: https://PesoDigital.com/
+Vcs-Git: https://github.com/PesoDigitalFoundation/PesoDigital.git
+
+Package: PesoDigital-qt
+Architecture: any-amd64 any-i386 any-arm
+Depends: +ACQAew-shlibs:Depends+AH0-, +ACQAew-misc:Depends+AH0-
+Description: PesoDigital wallet GUI
+ Peer-to-Peer cryptocurrency with Proof-of-Stake.
+
+Package: PesoDigitald
+Architecture: any-amd64 any-i386 any-arm
+Depends: +ACQAew-shlibs:Depends+AH0-, +ACQAew-misc:Depends+AH0-
+Description: PesoDigital daemon
+ Peer-to-Peer cryptocurrency with Proof-of-Stake.

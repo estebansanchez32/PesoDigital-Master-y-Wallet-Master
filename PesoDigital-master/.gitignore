@@ -1,0 +1,19 @@
+src/PesoDigitald
+src/test_PesoDigital
+
+# Ignore build dir
+build/
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+PesoDigital-qt
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store

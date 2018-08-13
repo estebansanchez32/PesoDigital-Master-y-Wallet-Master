@@ -1,0 +1,27 @@
+IDI_ICON1 ICON DISCARDABLE "icons/PesoDigital.ico"
+
+#include <windows.h> // needed for VERSIONINFO
+
+VS_VERSION_INFO VERSIONINFO
+FILEOS         	VOS_NT_WINDOWS32
+FILETYPE       	VFT_APP
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904E4" // U.S. English - multilingual (hex)
+        BEGIN
+            VALUE "CompanyName",        "PesoDigital"
+            VALUE "FileDescription",    "PesoDigital-Qt (OSS GUI client for PesoDigital)"
+            VALUE "InternalName",       "PesoDigital-qt"
+            VALUE "LegalCopyright",     "2014-2016 The PesoDigital developers"
+            VALUE "LegalTrademarks1",   "Distributed under the MIT software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
+            VALUE "OriginalFilename",   "PesoDigital-qt.exe"
+            VALUE "ProductName",        "PesoDigital-Qt"
+        END
+    END
+
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x0, 1252 // language neutral - multilingual (decimal)
+    END
+END

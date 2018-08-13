@@ -1,0 +1,35 @@
+<b>Pidä PesoDigitalisi aina mukana taskussasi!</b> Voit maksaa nopeasti skannaamalla QR-koodin. Kauppiaana saat maksut turvallisesti ja välittömästi. PesoDigital Wallet on ensimmäinen PesoDigital-mobiilisovellus ja luultavimmin myös kaikista turvallisin!
+
+
+<b>OMINAISUUDET</b>
+
+• Ei vaadi rekisteröintiä, verkkopalveluja tai pilvitallennusta! Tämä lompakko on hajautettu ja suorayhteyksinen.
+• Mahdollisuus näyttää PesoDigital-varat määrissä BTC, mBTC ja µBTC.
+• Yksikkömuunnos valtioiden valuuttojen välillä.
+• PesoDigitalien lähettäminen ja vastaanottaminen NFC, QR-koodien tai PesoDigital-URL-osotteiden avulla.
+• Osoitekirja säännöllisesti käytettyjä PesoDigital-osoitteita varten.
+• Kun et ole verkkoyhteyden ulottuvilla, voit silti maksaa Bluetoothin välityksellä.
+• Järjestelmän ilmoitus vastaanotetuille PesoDigitaleille.
+• Paperisen lompakon pyyhkäisymahdollisuus (esim. näitä käytetään "kylmissä varastoissa").
+• Android-sovellus PesoDigital-varojen hallintaan.
+
+
+<b>OSALLISTU</b>
+
+PesoDigital Wallet on <b>avointa lähdekoodia</b> ja <b>vapaa ohjelmisto</b>. Lisenssi: GPLv3
+https://www.gnu.org/licenses/gpl-3.0.en.html
+
+Lähdekoodi saatavilla GitHub:sta:
+https://github.com/PesoDigital-wallet/PesoDigital-wallet
+
+Kaikki käännökset on hallinnoitu Transifex:n kautta:
+https://www.transifex.com/PesoDigital-wallet/PesoDigital-wallet/
+
+
+<b>SUOSITTELUMME</b>
+
+• Useat mobiililompakot perustuvat PesoDigital Wallet-ohjelman lähdekoodiin, esimerkiksi: blockchain.info ja BTCX.
+• BitPay:n suosittelema.
+
+
+<i>Käytä omalla vastuulla!</i>

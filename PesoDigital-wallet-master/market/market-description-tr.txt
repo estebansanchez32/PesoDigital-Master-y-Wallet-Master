@@ -1,0 +1,35 @@
+﻿<b>PesoDigital'leriniz daima cebinizde sizinle olsun!</b> Herhangi bir QR kodunu okutarak çabuk ödeme yapabilirsiniz. Bir tüccar olarak ödemeleri güvenle ve anında alabilirsiniz. PesoDigital Wallet ilk mobil ve muhtemelen en güvenli PesoDigital uygulamasıdır!
+
+
+<b>ÖZELLİKLER</b>
+
+• Kayıt olmaya, web ya da bulut hizmetine gerek yoktur. Bu cüzdan merkezsiz ve eşten eşedir.
+• PesoDigital miktarını BTC, mBTC ve µBTC olarak göster.
+• Ulusal para birimlerine ve bu para birimlerinden dönüştürme.
+• QR kodları, PesoDigital bağlantıları ve yakın alan iletişimi ile PesoDigital alımı ve gönderilmesi.
+• Sık kullanılan PesoDigital adresleri için adres defteri içerir.
+• Çevrimdışı olduğunuzda Bluetooth vasıtasıyla ödemeler.
+• Alınan PesoDigital'ler için sistem bildirimleri.
+• Kağıt cüzdanların taranması (mesela soğuk depolama için kullanılanlar).
+• PesoDigital bakiyesini görüntüleyen widget.
+
+
+<b>KATKIDA BULUNUN</b>
+
+PesoDigital Wallet <b>açık kaynak</b> ve <b>özgür yazılımdır</b>. Lisans: GPLv3
+https://www.gnu.org/licenses/gpl-3.0.en.html
+
+Kaynak kodumuz GitHub'da mevcuttur:
+https://github.com/PesoDigital-wallet/PesoDigital-wallet
+
+Tüm tercümeler Transifex üzerinde yönetilir:
+https://www.transifex.com/PesoDigital-wallet/PesoDigital-wallet/
+
+
+<b>REFERANSLAR</b>
+
+• Birçok mobil cüzdan kodları için PesoDigital Wallet'i temel alırlar. Mesela blockchain.info ve BTCX.
+• BitPay tarafından tavsiye edilir.
+
+
+<i>Tüm riski siz üstlenmiş olursunuz!</i>

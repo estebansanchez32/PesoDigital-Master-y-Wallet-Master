@@ -1,0 +1,35 @@
+﻿<b>Mějte své PesoDigitaly vždy s sebou ve své kapse!</b> Plaťte rychlým oskenováním QR kódu. A jako prodejce můžete přijímat platby spolehlivě a rychle. PesoDigital Wallet je mobilní PesoDigital aplikace číslo jedna a jedna z nejbezpečnějších!
+
+
+<b>FUNKCE</b>
+
+• Není třeba žádná registrace, webová služba ani cloud! Toto je peer to peer decentralizovaná peněženka.
+• Zobrazení PesoDigital částek v BTC, mBTC a µBTC.
+• Přepočet z a do národních měn.
+• Odesílání a přijímání plateb přes NFC, QR kódy nebo PesoDigital URL.
+• Adresář pro často používané PesoDigital adresy.
+• Pokud jste offline, stále můžete platit přes Bluetooth.
+• Systémové notifikace při přijaté platbě
+• Načítání papírových peněženek (např. ty co se používají u cold storage).
+• Widget pro zobrazení PesoDigital bilance.
+
+
+<b>PŘISPĚJTE</b>
+
+PesoDigital Wallet je <b>open source</b> a <b>svobodný software</b>. Licence: GPLv3
+https://www.gnu.org/licenses/gpl-3.0.en.html
+
+Náš zdrojový kód je k dispozici na GitHubu:
+https://github.com/PesoDigital-wallet/PesoDigital-wallet
+
+Veškeré překlady jsou spravovány přes Transifex:
+https://www.transifex.com/PesoDigital-wallet/PesoDigital-wallet/
+
+
+<b>UZNÁNÍ</b>
+
+• Mnoho mobilních peněženek využívá zdrojový kód PesoDigital Wallet. Například: blockchain.info a BTCX.
+• Doporučeno službou BitPay.
+
+
+<i>Použití na vlastní riziko!</i>
